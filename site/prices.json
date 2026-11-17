@@ -1,0 +1,1874 @@
+{
+ "updated_at": "2026-08-27T00:08:11+03:00",
+ "source": "Товар.ods",
+ "currency": "RUB",
+ "unit": "т",
+ "groups": [
+  {
+   "slug": "armatura",
+   "name": "Арматура",
+   "items": [
+    {
+     "sku": "armatura-a1-f-6-st-sp-ps",
+     "name": "Арматура А1, ф 6, Ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f-8-st-sp-ps",
+     "name": "Арматура А1, ф 8, Ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f-8-st-sp-ps-buhta",
+     "name": "Арматура А1, ф 8, Ст. сп/пс бухта",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f10-st-sp-ps",
+     "name": "Арматура А1, ф10, Ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f12-st-sp-ps",
+     "name": "Арматура А1, ф12, Ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f14-st-sp-ps",
+     "name": "Арматура А1, ф14, Ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f16-st-sp-ps",
+     "name": "Арматура А1, ф16, ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f18-st-sp-ps",
+     "name": "Арматура А1, ф18, ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f20-st-sp-ps",
+     "name": "Арматура А1, ф20, ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f22-st-sp-ps",
+     "name": "Арматура А1, ф22, ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a1-f25-st-sp-ps",
+     "name": "Арматура А1, ф25, ст. сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f-6-gost-34028-2016",
+     "name": "Арматура А500С, ф 6, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f-8-gost-34028-2016",
+     "name": "Арматура А500С, ф 8, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f10-gost-34028-2016",
+     "name": "Арматура А500С, ф10, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f12-gost-34028-2016",
+     "name": "Арматура А500С, ф12, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f14-gost-34028-2016",
+     "name": "Арматура А500С, ф14, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f16-gost-34028-2016",
+     "name": "Арматура А500С, ф16, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f18-gost-34028-2016",
+     "name": "Арматура А500С, ф18, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f20-gost-34028-2016",
+     "name": "Арматура А500С, ф20, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f22-gost-34028-2016",
+     "name": "Арматура А500С, ф22, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f25-gost-34028-2016",
+     "name": "Арматура А500С, ф25, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f28-gost-34028-2016",
+     "name": "Арматура А500С, ф28, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f32-gost-34028-2016",
+     "name": "Арматура А500С, ф32, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-a500s-f36-gost-34028-2016",
+     "name": "Арматура А500С, ф36, ГОСТ 34028-2016",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f10-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф10, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f12-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф12, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f14-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф14, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f16-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф16, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f18-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф18, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f20-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф20, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f22-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф22, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f25-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф25, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f28-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф28, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f32-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф32, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "armatura-aiii-25g2s-f8-gost-5781-82",
+     "name": "Арматура АIII, 25Г2С ф8, ГОСТ 5781-82",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "dvutavr",
+   "name": "Двутавр",
+   "items": [
+    {
+     "sku": "dvutavr-12b1-st3ps5-gost-26020-83",
+     "name": "Двутавр 12Б1 Ст3пс5 ГОСТ 26020-83",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-14b1-st3ps5-gost-26020-83",
+     "name": "Двутавр 14Б1 Ст3пс5 ГОСТ 26020-83",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-16b1-s255-gost-57837-2017",
+     "name": "Двутавр 16Б1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-18b1-s255gost-26020-83",
+     "name": "Двутавр 18Б1 С255ГОСТ 26020-83",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-20b1-s255-gost-57837-2017",
+     "name": "Двутавр 20Б1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-20k1-s255-gost-57837-2017",
+     "name": "Двутавр 20К1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-20k2-s255-gost-57837-2017",
+     "name": "Двутавр 20К2 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-25b1-s255-gost-57837-2017",
+     "name": "Двутавр 25Б1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-25k1-s255-gost-57837-2017",
+     "name": "Двутавр 25К1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-25sh1-s255-gost-57837-2017",
+     "name": "Двутавр 25Ш1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-30b1-s255-gost-57837-2017",
+     "name": "Двутавр 30Б1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-30k1-s255-gost-57837-2017",
+     "name": "Двутавр 30К1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-35b1-s255-gost-57837-2017",
+     "name": "Двутавр 35Б1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-35k1-s255-gost-57837-2017",
+     "name": "Двутавр 35К1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-35sh1-s255-gost-57837-2017",
+     "name": "Двутавр 35Ш1 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-40b2-s255-gost-57837-2017",
+     "name": "Двутавр 40Б2 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "dvutavr-40k2-s255-gost-57837-2017",
+     "name": "Двутавр 40К2 С255 ГОСТ 57837-2017",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "kvadrat",
+   "name": "Квадрат",
+   "items": [
+    {
+     "sku": "kvadrat-10-st3",
+     "name": "Квадрат 10 Ст3",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "kvadrat-12-st3",
+     "name": "Квадрат 12 Ст3",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "kvadrat-14-st3",
+     "name": "Квадрат 14 Ст3",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "kvadrat-16-st3",
+     "name": "Квадрат 16 Ст3",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "kvadrat-20-st3",
+     "name": "Квадрат 20 Ст3",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "list-g-k",
+   "name": "Лист Г/К",
+   "items": [
+    {
+     "sku": "list-g-k-2h1250h2500-st3sp-ps",
+     "name": "Лист г/к 2х1250х2500 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-3h1250h2500-st3sp-ps",
+     "name": "Лист г/к 3х1250х2500 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-4h1500h6000-st3sp-ps",
+     "name": "Лист г/к 4х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-5h1500h6000-st3sp-ps",
+     "name": "Лист г/к 5х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-6h1500h6000-st3sp-ps",
+     "name": "Лист г/к 6х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-8h1500h6000-st3sp-ps",
+     "name": "Лист г/к 8х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-10h1500h6000-st3sp-ps",
+     "name": "Лист г/к 10х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-12h1500h6000-st3sp-ps",
+     "name": "Лист г/к 12х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-14h1500h6000-st3sp-ps",
+     "name": "Лист г/к 14х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-16h1500h6000-st3sp-ps",
+     "name": "Лист г/к 16х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-18h1500h6000-st3sp-ps",
+     "name": "Лист г/к 18х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-20h1500h6000-st3sp-ps",
+     "name": "Лист г/к 20х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-22h1500h6000-st3sp-ps",
+     "name": "Лист г/к 22х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-25h1500h6000-st3sp-ps",
+     "name": "Лист г/к 25х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-30h1500h6000-st3sp-ps",
+     "name": "Лист г/к 30х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-g-k-40h1500h6000-st3sp-ps",
+     "name": "Лист г/к 40х1500х6000 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "list-oc",
+   "name": "Лист ОЦ",
+   "items": [
+    {
+     "sku": "list-ocink-0-5h1250h2500",
+     "name": "Лист оцинк. 0,5х1250х2500",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-ocink-0-7h1250h2500",
+     "name": "Лист оцинк. 0,7х1250х2500",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-ocink-0-8h1250h2500",
+     "name": "Лист оцинк. 0,8х1250х2500",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-ocink-1-0h1250h2500",
+     "name": "Лист оцинк. 1,0х1250х2500",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-ocink-2-0h1250h2500",
+     "name": "Лист оцинк. 2,0х1250х2500",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "list-pvl",
+   "name": "Лист ПВЛ",
+   "items": [
+    {
+     "sku": "list-pvl-406",
+     "name": "Лист ПВЛ-406",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-pvl-506",
+     "name": "Лист ПВЛ-506",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-pvl-508",
+     "name": "Лист ПВЛ-508",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-pvl-510",
+     "name": "Лист ПВЛ-510",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "list-riflenyy",
+   "name": "Лист рифленый",
+   "items": [
+    {
+     "sku": "list-riflenyy-3h1250h2500-st3sp-ps-chechevica",
+     "name": "Лист рифленый 3х1250х2500 Ст3сп/пс чечевица",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-riflenyy-3h1500h6000-st3sp-ps-chechevica",
+     "name": "Лист рифленый 3х1500х6000 Ст3сп/пс чечевица",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-riflenyy-4h1500h6000-st3sp-ps-chechevica",
+     "name": "Лист рифленый 4х1500х6000 Ст3сп/пс чечевица",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-riflenyy-5h1500h6000-st3sp-ps-chechevica",
+     "name": "Лист рифленый 5х1500х6000 Ст3сп/пс чечевица",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-riflenyy-6h1500h6000-st3sp-ps-chechevica",
+     "name": "Лист рифленый 6х1500х6000 Ст3сп/пс чечевица",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-riflenyy-8h1500h6000-st3sp-ps-chechevica",
+     "name": "Лист рифленый 8х1500х6000 Ст3сп/пс чечевица",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "list-hk",
+   "name": "Лист ХК",
+   "items": [
+    {
+     "sku": "list-h-k-0-5h1250h2500-st08ps",
+     "name": "Лист х/к 0,5х1250х2500 Ст08пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-h-k-1-0h1250h2500-st08ps",
+     "name": "Лист х/к 1,0х1250х2500 Ст08пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-h-k-1-5h1250h2500-st08ps",
+     "name": "Лист х/к 1,5х1250х2500 Ст08пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "list-h-k-2-0h1250h2500-st08ps",
+     "name": "Лист х/к 2,0х1250х2500 Ст08пс",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "polosa",
+   "name": "Полоса",
+   "items": [
+    {
+     "sku": "polosa-10h100-g-k-st3-gost-103-2006",
+     "name": "Полоса 10х100 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-10h40-g-k-st3-gost-103-2006",
+     "name": "Полоса 10х40 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-10h50-g-k-st3-gost-103-2006",
+     "name": "Полоса 10х50 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h20-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х20 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h25-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х25 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h30-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х30 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h40-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х40 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h50-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х50 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h60-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х60 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-4h80-g-k-st3-gost-103-2006",
+     "name": "Полоса 4х80 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-5h100-g-k-st3-gost-103-2006",
+     "name": "Полоса 5х100 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-5h40-g-k-st3-gost-103-2006",
+     "name": "Полоса 5х40 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-5h50-g-k-st3-gost-103-2006",
+     "name": "Полоса 5х50 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-5h60-g-k-st3-gost-103-2006",
+     "name": "Полоса 5х60 г/к, ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-5h80-g-k-st3-gost-103-2006",
+     "name": "Полоса 5х80 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-6h100-g-k-st3-gost-103-2006",
+     "name": "Полоса 6х100 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-6h40-g-k-st3-gost-103-2006",
+     "name": "Полоса 6х40 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-6h60-g-k-st3-gost-103-2006",
+     "name": "Полоса 6х60 г/к ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-6h80-g-k-st3-gost-103-2006",
+     "name": "Полоса 6х80 г/к ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-8h100-g-k-st3-gost-103-2006",
+     "name": "Полоса 8х100 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-8h50-g-k-st3-gost-103-2006",
+     "name": "Полоса 8х50 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-8h60-g-k-st3-gost-103-2006",
+     "name": "Полоса 8х60 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-8h80-g-k-st3-gost-103-2006",
+     "name": "Полоса 8х80 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-ocinkov-4h40-g-k-st3-gost-103-2006",
+     "name": "Полоса оцинков 4х40 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "polosa-ocinkov-4h50-g-k-st3-gost-103-2006",
+     "name": "Полоса оцинков 4х50 г/к Ст3 ГОСТ 103-2006",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "truba-vgp",
+   "name": "Труба ВГП",
+   "items": [
+    {
+     "sku": "truba-vgp-15h2-8-gost-3262-75",
+     "name": "Труба ВГП 15х2,8 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-20h2-8-gost-3262-75",
+     "name": "Труба ВГП 20х2,8 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-25h2-8-gost-3262-75",
+     "name": "Труба ВГП 25х2,8 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-25h3-2-gost-3262-75",
+     "name": "Труба ВГП 25х3,2 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-32h2-8-gost-3262-75",
+     "name": "Труба ВГП 32х2,8 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-32h3-2-gost-3262-75",
+     "name": "Труба ВГП 32х3,2 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-40h3-gost-3262-75",
+     "name": "Труба ВГП 40х3 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-40h3-5-gost-3262-75",
+     "name": "Труба ВГП 40х3,5 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-50h3-gost-3262-75",
+     "name": "Труба ВГП 50х3 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-50h3-5-gost-3262-75",
+     "name": "Труба ВГП 50х3,5 ГОСТ 3262-75",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "truba-oc",
+   "name": "Труба ОЦ",
+   "items": [
+    {
+     "sku": "truba-vgp-ocinkov-15h2-8",
+     "name": "Труба ВГП оцинков. 15х2,8",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-20h2-8",
+     "name": "Труба ВГП оцинков. 20х2,8",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-25h2-8",
+     "name": "Труба ВГП оцинков. 25х2,8",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-25h3-2",
+     "name": "Труба ВГП оцинков. 25х3,2",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-32h2-8",
+     "name": "Труба ВГП оцинков. 32х2,8",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-32h3-2",
+     "name": "Труба ВГП оцинков. 32х3,2",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-40h3",
+     "name": "Труба ВГП оцинков. 40х3",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-vgp-ocinkov-40h3-5",
+     "name": "Труба ВГП оцинков. 40х3,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-108h3-5",
+     "name": "Труба ЭлСВ оцинков. 108х3,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-108h4",
+     "name": "Труба ЭлСВ оцинков. 108х4",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-133h4-5",
+     "name": "Труба ЭлСВ оцинков. 133х4,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-159h4-5",
+     "name": "Труба ЭлСВ оцинков. 159х4,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-219h4",
+     "name": "Труба ЭлСВ оцинков. 219х4",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-57h3",
+     "name": "Труба ЭлСВ оцинков. 57х3",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-57h3-5",
+     "name": "Труба ЭлСВ оцинков. 57х3,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-76h3-5",
+     "name": "Труба ЭлСВ оцинков. 76х3,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-76h4",
+     "name": "Труба ЭлСВ оцинков. 76х4",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-89h3-5",
+     "name": "Труба ЭлСВ оцинков. 89х3,5",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-ocinkov-89h4",
+     "name": "Труба ЭлСВ оцинков. 89х4",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "truba-profilnaya",
+   "name": "Труба профильная",
+   "items": [
+    {
+     "sku": "truba-profilnaya-100h100h3-st3sp-ps",
+     "name": "Труба профильная 100х100х3 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-100h100h4-st1-3sp-ps",
+     "name": "Труба профильная 100х100х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-100h100h5-st1-3sp-ps",
+     "name": "Труба профильная 100х100х5 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-100h100h6-st1-3sp-ps",
+     "name": "Труба профильная 100х100х6 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-100h50h3-st1-3sp-ps",
+     "name": "Труба профильная 100х50х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-100h50h4-st1-3sp-ps",
+     "name": "Труба профильная 100х50х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-100h60h4-st1-3sp-ps",
+     "name": "Труба профильная 100х60х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h120h3-st1-3sp-ps",
+     "name": "Труба профильная 120х120х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h120h4-st1-3sp-ps",
+     "name": "Труба профильная 120х120х4 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h120h5-st1-3sp-ps",
+     "name": "Труба профильная 120х120х5 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h60h3-st1-3sp-ps",
+     "name": "Труба профильная 120х60х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h60h4-st1-3sp-ps",
+     "name": "Труба профильная 120х60х4 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h80h3-st1-3sp-ps",
+     "name": "Труба профильная 120х80х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-120h80h4-st1-3sp-ps",
+     "name": "Труба профильная 120х80х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-140h140h4-st3sp-ps",
+     "name": "Труба профильная 140х140х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-140h140h5-st3sp-ps",
+     "name": "Труба профильная 140х140х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-150h100h5-st3sp-ps",
+     "name": "Труба профильная 150х100х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-150h100h6-st3sp-ps",
+     "name": "Труба профильная 150х100х6 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-150h150h4-st3sp-ps",
+     "name": "Труба профильная 150х150х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-150h150h5-st1-3sp-ps",
+     "name": "Труба профильная 150х150х5 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-15h15h1-5-st1-3sp-ps",
+     "name": "Труба профильная 15х15х1,5 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-160h160h4-st3sp-ps",
+     "name": "Труба профильная 160х160х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-160h160h5-st3sp-ps",
+     "name": "Труба профильная 160х160х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-180h180h5-st3sp-ps",
+     "name": "Труба профильная 180х180х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-200h100h5-st1-3sp-ps",
+     "name": "Труба профильная 200х100х5 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-200h200h5-st3sp-ps",
+     "name": "Труба профильная 200х200х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-20h20h1-5-st1-3sp-ps",
+     "name": "Труба профильная 20х20х1,5 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-20h20h2-st1-3sp-ps",
+     "name": "Труба профильная 20х20х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-25h25h1-5-st1-3sp-ps",
+     "name": "Труба профильная 25х25х1,5 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-25h25h2-st1-3sp-pc",
+     "name": "Труба профильная 25х25х2 Ст1- 3сп/пc",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-30h20h2-st1-3sp-ps",
+     "name": "Труба профильная 30х20х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-30h30h1-5-st1-3sp-ps",
+     "name": "Труба профильная 30х30х1,5 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-30h30h2-st1-3sp-ps",
+     "name": "Труба профильная 30х30х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-30h30h3-st1-3sp-ps",
+     "name": "Труба профильная 30х30х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h20h1-5-st1-3sp-ps",
+     "name": "Труба профильная 40х20х1,5 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h20h2-st1-3sp-ps",
+     "name": "Труба профильная 40х20х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h20h3-st1-3sp-ps",
+     "name": "Труба профильная 40х20х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h25h2-st1-3sp-ps",
+     "name": "Труба профильная 40х25х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h25h3-st1-3sp-ps",
+     "name": "Труба профильная 40х25х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h40h2-st1-3sp-ps",
+     "name": "Труба профильная 40х40х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h40h3-st1-3sp-ps",
+     "name": "Труба профильная 40х40х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-40h40h4-st1-3sp-ps",
+     "name": "Труба профильная 40х40х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-50h25h2-st1-3sp-ps",
+     "name": "Труба профильная 50х25х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-50h30h2-st1-3sp-ps",
+     "name": "Труба профильная 50х30х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-50h30h3-st1-3sp-ps",
+     "name": "Труба профильная 50х30х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-50h50h2-st1-3sp-ps",
+     "name": "Труба профильная 50х50х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-50h50h3-st1-3sp-ps",
+     "name": "Труба профильная 50х50х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-50h50h4-st1-3sp-ps",
+     "name": "Труба профильная 50х50х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h30h2-st1-3sp-ps",
+     "name": "Труба профильная 60х30х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h30h3-st1-3sp-ps",
+     "name": "Труба профильная 60х30х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h40h2-st1-3sp-ps",
+     "name": "Труба профильная 60х40х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h40h3-st1-3sp-ps",
+     "name": "Труба профильная 60х40х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h40h4-st1-3sp-ps",
+     "name": "Труба профильная 60х40х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h60h2-st1-3sp-ps",
+     "name": "Труба профильная 60х60х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h60h3-st1-3sp-ps",
+     "name": "Труба профильная 60х60х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-60h60h4-st1-3sp-ps",
+     "name": "Труба профильная 60х60х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h40h2-st1-3sp-ps",
+     "name": "Труба профильная 80х40х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h40h3-st1-3sp-ps",
+     "name": "Труба профильная 80х40х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h40h4-st1-3sp-ps",
+     "name": "Труба профильная 80х40х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h40h5-st1-3sp-ps",
+     "name": "Труба профильная 80х40х5 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h60h2-st1-3sp-ps",
+     "name": "Труба профильная 80х60х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h60h3-st1-3sp-ps",
+     "name": "Труба профильная 80х60х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h60h4-st1-3sp-ps",
+     "name": "Труба профильная 80х60х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h80h2-st1-3sp-ps",
+     "name": "Труба профильная 80х80х2 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h80h3-st1-3sp-ps",
+     "name": "Труба профильная 80х80х3 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h80h4-st1-3sp-ps",
+     "name": "Труба профильная 80х80х4 Ст1- 3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-profilnaya-80h80h5-st1-3sp-ps",
+     "name": "Труба профильная 80х80х5 Ст1-3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "truba-elsv",
+   "name": "Труба ЭлСв",
+   "items": [
+    {
+     "sku": "truba-elsv-108h3-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 108х3 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-108h3-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 108х3,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-108h4-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 108х4 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-133h4-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 133х4 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-133h4-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 133х4,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-159h4-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 159х4 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-159h4-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 159х4,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-159h5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 159х5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-159h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 159х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-219h4-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 219х4 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-219h4-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 219х4,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-219h5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 219х5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-219h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 219х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-219h8-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 219х8 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-273h5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 273х5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-273h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 273х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-273h7-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 273х7 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-325h5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 325х5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-325h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 325х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-325h8-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 325х8 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-377h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 377х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-377h8-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 377х8 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-426h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 426х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-426h7-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 426х7 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-426h8-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 426х8 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-530h6-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 530х6 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-530h7-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 530х7 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-530h8-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 530х8 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-57h3-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 57х3 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-57h3-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 57х3,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-630h7-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 630х7 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-630h8-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 630х8 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-76h3-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 76х3 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-76h3-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 76х3,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-76h4-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 76х4 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-89h3-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 89х3 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-89h3-5-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 89х3,5 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "truba-elsv-89h4-gost-10704-91-10705-80",
+     "name": "Труба ЭлСВ 89х4 ГОСТ 10704-91/10705-80",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "ugolok",
+   "name": "Уголок",
+   "items": [
+    {
+     "sku": "ugolok-100h7-st3sp-ps",
+     "name": "Уголок 100х7 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-100h8-st3sp-ps",
+     "name": "Уголок 100х8 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-125h8-st3sp-ps",
+     "name": "Уголок 125х8 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-140h10-st3sp-ps",
+     "name": "Уголок 140х10 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-160h10-st3-sp-ps",
+     "name": "Уголок 160х10 Ст3 сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-160h12-st3-sp-ps",
+     "name": "Уголок 160х12 Ст3 сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-25h3-st3sp-ps",
+     "name": "Уголок 25х3 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-32h3-st3sp-ps",
+     "name": "Уголок 32х3 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-32h4-st3sp-ps",
+     "name": "Уголок 32х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-35h3-st3sp-ps",
+     "name": "Уголок 35х3 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-35h4-st3sp-ps",
+     "name": "Уголок 35х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-40h3-st3sp-ps",
+     "name": "Уголок 40х3 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-40h4-st3sp-ps",
+     "name": "Уголок 40х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-50h4-st3sp-ps",
+     "name": "Уголок 50х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-50h5-st3sp-ps",
+     "name": "Уголок 50х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-63h4-st3sp-ps",
+     "name": "Уголок 63х4 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-63h5-st3sp-ps",
+     "name": "Уголок 63х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-63h6-st3sp-ps",
+     "name": "Уголок 63х6 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-70h5-st3sp-ps",
+     "name": "Уголок 70х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-75h5-st3sp-ps",
+     "name": "Уголок 75х5 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-75h6-st3sp-ps",
+     "name": "Уголок 75х6 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-75h8-st3sp-ps",
+     "name": "Уголок 75х8 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-80h6-st3sp-ps",
+     "name": "Уголок 80х6 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-90h6-st3sp-ps",
+     "name": "Уголок 90х6 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "ugolok-90h7-st3sp-ps",
+     "name": "Уголок 90х7 Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  },
+  {
+   "slug": "shveller",
+   "name": "Швеллер",
+   "items": [
+    {
+     "sku": "shveller-6-5p-st3sp-ps",
+     "name": "Швеллер 6,5П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-6-5u-st3sp-ps",
+     "name": "Швеллер 6,5У Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-8p-st3sp-ps",
+     "name": "Швеллер 8П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-8u-st3sp-ps",
+     "name": "Швеллер 8У Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-10p-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 10П Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-10u-st3sp-ps",
+     "name": "Швеллер 10У Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-12p-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 12П Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-14p-st3sp-ps",
+     "name": "Швеллер 14П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-14u-st3sp-ps",
+     "name": "Швеллер 14У Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-16p-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 16П Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-16u-st3sp-ps",
+     "name": "Швеллер 16У Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-18p-st3sp-ps",
+     "name": "Швеллер 18П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-18u-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 18У Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-20p-st3sp-ps",
+     "name": "Швеллер 20П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-20u-st3sp-ps",
+     "name": "Швеллер 20У Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-22p-st3sp-ps",
+     "name": "Швеллер 22П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-24p-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 24П Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-27p-st3sp-ps",
+     "name": "Швеллер 27П Ст3сп/пс",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-30p-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 30П Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    },
+    {
+     "sku": "shveller-40p-st3sp-ps-gost-8240-97",
+     "name": "Швеллер 40П Ст3сп/пс ГОСТ 8240-97",
+     "stock": "Сочи",
+     "price": null
+    }
+   ]
+  }
+ ]
+}

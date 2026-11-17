@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}{% if selected %}{{ selected.name }} — {% endif %}Каталог металлопроката | МЕТЭК Сочи{% endblock %}
+{% block content %}
+<div class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Главная</a> / Каталог проката</p>
+    <h1>Каталог металлопроката в Сочи</h1>
+    <p>Широкий ассортимент металлопроката в наличии и под заказ.<br>Цены за тонну с НДС — обновляются вместе с прайсом склада.</p>
+  </div>
+</div>
+
+<section id="katalog" style="padding-top:40px">
+  <div class="wrap">
+    <div style="margin-bottom:26px"><form class="search" action="/katalog" method="get" data-search>
+      <input name="q" value="{{ query }}" placeholder="Поиск по каталогу: труба, арматура, лист..." autocomplete="off"
+             aria-label="Поиск по каталогу" maxlength="80">
+      <button class="btn" type="submit">Найти</button>
+      <div class="sug" hidden></div>
+    </form></div>
+    <div class="sec-head">
+      <span class="tag">Прайс-лист</span>
+      <h2>Цены <em>со склада в Сочи</em></h2>
+      <span class="stamp" id="priceStamp"><span class="dot"></span><span id="stampText">{% if catalog_info and catalog_info.updated_at %}Прайс от {{ catalog_info.updated_at[:10] }}{% else %}Прайс пока не загружен{% endif %}</span></span>
+    </div>
+    {% if query %}
+    <div class="search-info" id="searchInfo">Найдено <b>{{ rows|length }}</b> позиций по запросу «<b>{{ query }}</b>» · <a href="/katalog">Сбросить поиск</a></div>
+    {% endif %}
+    <div class="gtabs" id="serverGroupTabs" aria-label="Виды металлопроката">
+      {% for category in categories %}
+      <a href="/katalog/{{ category.slug }}" class="{{ 'active' if selected and category.id == selected.id and not query else '' }}" {% if selected and category.id == selected.id and not query %}aria-current="page"{% endif %}>{{ category.name }}</a>
+      {% endfor %}
+    </div>
+    <div class="table-scroll" data-server-catalog="true">
+    <table class="price-table" aria-describedby="priceNote">
+      <thead><tr><th scope="col">Наименование</th><th scope="col" style="text-align:right">Цена, ₽/т</th></tr></thead>
+      <tbody id="serverPriceBody">
+        {% for product, category in rows %}
+        <tr>
+          <td>{{ product.name }}{% if query %} <span style="color:var(--muted);font-size:12px">· {{ category.name }}</span>{% endif %}</td>
+          <td class="price{{ ' na' if product.price is none else '' }}">{{ product.price|rub }}{% if product.price is not none and product.unit != 'т' %}/{{ product.unit }}{% endif %}</td>
+        </tr>
+        {% else %}
+        <tr><td colspan="2">{% if query %}Ничего не найдено — <a href="/kontakty#zvonok">запросите позицию</a>.{% elif not categories %}Каталог пока не загружен.{% else %}В категории пока нет товаров.{% endif %}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    <p class="price-note" id="priceNote">Цены за тонну с НДС. Позиции «уточняйте у менеджера» посчитаем по телефону. Резка в размер и доставка — по согласованию.</p>
+    <div class="price-cta">
+      <a class="btn" href="/kontakty#zvonok">Запросить расчёт</a>
+      <a class="btn ghost" href="tel:+78622910033">+7 (862) 291-00-33</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

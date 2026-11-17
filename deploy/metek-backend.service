@@ -1,0 +1,34 @@
+# /etc/systemd/system/metek-backend.service
+[Unit]
+Description=METEK Sochi backend (callback + admin upload)
+After=network.target
+
+[Service]
+User=metek
+Group=metek
+WorkingDirectory=/srv/metek/backend
+# все секреты — в /srv/metek/backend/config.env (chown metek:metek, chmod 600)
+EnvironmentFile=/srv/metek/backend/config.env
+Environment=SITE_DIR=/srv/metek/site
+ExecStart=/srv/metek/venv/bin/uvicorn app:app --host 127.0.0.1 --port 8100 --no-server-header --proxy-headers --forwarded-allow-ips=127.0.0.1
+Restart=on-failure
+RestartSec=3
+# ── харднинг ──
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/srv/metek/backend/data /srv/metek/site/prices.json
+PrivateTmp=true
+PrivateDevices=true
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+LockPersonality=true
+MemoryDenyWriteExecute=true
+SystemCallArchitectures=native
+CapabilityBoundingSet=
+AmbientCapabilities=
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target
